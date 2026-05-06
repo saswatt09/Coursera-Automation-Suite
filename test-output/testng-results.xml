@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Driver is instantiated]]>
+    </line>
+    <line>
+      <![CDATA[Driver closed browser]]>
+    </line>
+    <line>
+      <![CDATA[Driver is instantiated]]>
+    </line>
+    <line>
+      <![CDATA[Driver closed browser]]>
+    </line>
+    <line>
+      <![CDATA[Driver is instantiated]]>
+    </line>
+    <line>
+      <![CDATA[Driver closed browser]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2026-05-05T11:48:16 IST" name="Coursera Automation Suite" finished-at="2026-05-05T11:50:19 IST" duration-ms="122703">
+    <groups>
+    </groups>
+    <test started-at="2026-05-05T11:48:16 IST" name="Web Development Test" finished-at="2026-05-05T11:49:05 IST" duration-ms="48544">
+      <class name="Tests.WebDevelopmentCourseTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Tests.WebDevelopmentCourseTest@710636b0]" started-at="2026-05-05T11:48:16 IST" name="setUp" finished-at="2026-05-05T11:48:29 IST" duration-ms="12529" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Driver is instantiated]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyWebDevCourses()[pri:0, instance:Tests.WebDevelopmentCourseTest@710636b0]" started-at="2026-05-05T11:48:29 IST" name="verifyWebDevCourses" finished-at="2026-05-05T11:48:55 IST" duration-ms="26159" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyWebDevCourses -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.WebDevelopmentCourseTest@710636b0]" started-at="2026-05-05T11:48:55 IST" name="tearDown" finished-at="2026-05-05T11:49:05 IST" duration-ms="9499" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Driver closed browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Tests.WebDevelopmentCourseTest -->
+    </test> <!-- Web Development Test -->
+    <test started-at="2026-05-05T11:49:05 IST" name="Language Course Test" finished-at="2026-05-05T11:49:54 IST" duration-ms="48619">
+      <class name="Tests.LanguageCourseTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Tests.LanguageCourseTest@21be3395]" started-at="2026-05-05T11:49:05 IST" name="setUp" finished-at="2026-05-05T11:49:12 IST" duration-ms="6766" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Driver is instantiated]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyLanguageAndLevels()[pri:0, instance:Tests.LanguageCourseTest@21be3395]" started-at="2026-05-05T11:49:12 IST" name="verifyLanguageAndLevels" finished-at="2026-05-05T11:49:45 IST" duration-ms="33624" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLanguageAndLevels -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.LanguageCourseTest@21be3395]" started-at="2026-05-05T11:49:45 IST" name="tearDown" finished-at="2026-05-05T11:49:54 IST" duration-ms="8199" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Driver closed browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Tests.LanguageCourseTest -->
+    </test> <!-- Language Course Test -->
+    <test started-at="2026-05-05T11:49:54 IST" name="Enterprise Form Test" finished-at="2026-05-05T11:50:19 IST" duration-ms="25377">
+      <class name="Tests.EnterpriseFormTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Tests.EnterpriseFormTest@1a5a4e19]" started-at="2026-05-05T11:49:54 IST" name="setUp" finished-at="2026-05-05T11:50:01 IST" duration-ms="7363" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Driver is instantiated]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyEnterpriseFormValidation()[pri:0, instance:Tests.EnterpriseFormTest@1a5a4e19]" started-at="2026-05-05T11:50:01 IST" name="verifyEnterpriseFormValidation" finished-at="2026-05-05T11:50:12 IST" duration-ms="11175" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyEnterpriseFormValidation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.EnterpriseFormTest@1a5a4e19]" started-at="2026-05-05T11:50:12 IST" name="tearDown" finished-at="2026-05-05T11:50:19 IST" duration-ms="6829" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Driver closed browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Tests.EnterpriseFormTest -->
+    </test> <!-- Enterprise Form Test -->
+  </suite> <!-- Coursera Automation Suite -->
+</testng-results>
